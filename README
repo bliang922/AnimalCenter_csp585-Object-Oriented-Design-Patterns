@@ -1,0 +1,18 @@
+fill "Chicken" or "Sparrow" or "Poodle" or "Dalmatian" or "Cat" for type
+fill a name of the animal for name. for example, chicken1
+fill "yes" or "no" of the adoption availability. 
+fill "good" or "ill" of the health condition for the animal
+fill animal picture description of the animal. for example, chicken1_pic
+fill notes of the animal. Here, use "wear hat" or "wear Tshirt" to give animal a decorator, this apply decorator pattern
+
+click "+" button to add animal to center
+click "-" button to remove animal from center
+click "draw" button to draw the chosen animal
+click "toString" button to show the chosen animal information
+click "feed" button to feed the animal, this apply the strategy pattern
+click "static" button to show the number of animals
+
+
+
+
+
